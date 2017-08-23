@@ -1,0 +1,10 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emily Jones <efhjones@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.10.5"
+  }
+}
